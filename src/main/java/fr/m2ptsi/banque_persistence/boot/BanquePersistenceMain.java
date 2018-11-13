@@ -11,6 +11,8 @@ public class BanquePersistenceMain {
 		
 		BanqueService service = new BanqueService();
 		
+		//Salut Ahmed
+		
 		Type type = new Type();
 		type.setLibelle(TypeCompte.COURANT);
 		System.out.println("Le libelle : "+type.getLibelle());
